@@ -88,7 +88,7 @@ mkdir %ROOT_DIR%\12_Outils\PostGIS
 mkdir %ROOT_DIR%\12_Outils\QGIS
 mkdir %ROOT_DIR%\12_Outils\ArcGIS
 mkdir %ROOT_DIR%\12_Outils\BG_Geogenerateur
-
+mkdir %ROOT_DIR%\12_Outils\Leaflet
 
 :: 13_Administratif
 mkdir %ROOT_DIR%\13_Administratif
