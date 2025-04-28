@@ -1,5 +1,5 @@
 @echo off
-echo Creation de l'arborescence SIG pour la COBAN
+echo Creation de l'arborescence Documentation
 echo -------------------------------------------
 
 :: Dossier principal
