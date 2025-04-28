@@ -97,6 +97,7 @@ mkdir %ROOT_DIR%\13_Administratif\Convention
 mkdir %ROOT_DIR%\13_Administratif\Marche_public
 mkdir %ROOT_DIR%\13_Administratif\Budget
 mkdir %ROOT_DIR%\13_Administratif\Ressource_Humaine
+mkdir %ROOT_DIR%\13_Administratif\Ressource_Humaine\COBAN
 mkdir %ROOT_DIR%\13_Administratif\Note
 
 
