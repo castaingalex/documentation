@@ -21,6 +21,8 @@ mkdir %ROOT_DIR%\02_Referentiel\MNT_MNE
 mkdir %ROOT_DIR%\02_Referentiel\LidarHD
 mkdir %ROOT_DIR%\02_Referentiel\Adresse
 mkdir %ROOT_DIR%\02_Referentiel\PCRS
+mkdir %ROOT_DIR%\02_Referentiel\PCRS\Projet
+mkdir %ROOT_DIR%\02_Referentiel\PCRS\
 
 :: 03_Metier
 mkdir %ROOT_DIR%\03_Metier
