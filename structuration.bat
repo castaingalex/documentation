@@ -24,6 +24,7 @@ mkdir %ROOT_DIR%\02_Referentiel\PCRS
 mkdir %ROOT_DIR%\02_Referentiel\PCRS\Projet
 mkdir %ROOT_DIR%\02_Referentiel\PCRS\Specification
 mkdir %ROOT_DIR%\02_Referentiel\PCRS\Production
+mkdir %ROOT_DIR%\02_Referentiel\DGF
 
 :: 03_Metier
 mkdir %ROOT_DIR%\03_Metier
